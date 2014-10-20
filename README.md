@@ -17,7 +17,7 @@ The "novel" is defined however you want. It could be 50,000 repetitions of the w
 
 _Please try to respect copyright._ I'm not going to police it, as ultimately it's on your head if you want to just copy/paste a Stephen King novel or whatever, but the most useful/interesting implementations are going to be ones that don't engender lawsuits.
 
-This activity ends at 12:01am GMT Dec 1st.
+This activity starts at 12:01am GMT on Nov 1st and ends at 12:01am GMT Dec 1st.
 
 ## How to Participate
 
