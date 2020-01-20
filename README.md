@@ -3,9 +3,9 @@
 
 # NaNoGenMo 2014
 
-[![entries: completed][~completed]](https://github.com/dariusk/NaNoGenMo-2014/labels/completed)
-[![entries: preview][~preview]](https://github.com/dariusk/NaNoGenMo-2014/labels/preview)
-[![issues: admin][~admin]](https://github.com/dariusk/NaNoGenMo-2014/labels/admin)
+[![entries: completed][~completed]](https://github.com/dariusk/NaNoGenMo-2014/issues?q=label%3Acompleted)
+[![entries: preview][~preview]](https://github.com/dariusk/NaNoGenMo-2014/issues?q=label%3Apreview)
+[![issues: admin][~admin]](https://github.com/dariusk/NaNoGenMo-2014/issues?q=label%3Aadmin)
 [![twitter: nanogenmobot][~twitter]](https://twitter.com/nanogenmobot)
 
 [~completed]: https://img.shields.io/badge/entries-completed-0e8a16.svg
